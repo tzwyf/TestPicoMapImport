@@ -28,7 +28,10 @@ public class TestMapImport : MonoBehaviour
         //PXR_Enterprise.ImportMapByPath(mapPath, ImportMapCallback);
 
 
+
         //Pico关于大空间的定义是：实现多台设备共享同一地图，处于统一坐标系中，虚拟场景中的位置与真实世界的位置一致。
+
+
 
         //关于大空间地图导入功能的思路：
         //1、使用A设备创建虚拟地图
